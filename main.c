@@ -2,5 +2,6 @@
 int main(void)
 {
 	printf("hello hit test\n");
+	// add  r22 changed
 	return 1;
 }
