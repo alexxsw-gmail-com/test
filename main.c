@@ -4,5 +4,6 @@
 int main(void)
 {
 	printf("hello hit test\n");
-	return 0;
+	return 2; //fix bug in master
 }
+
