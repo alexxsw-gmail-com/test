@@ -1,3 +1,5 @@
+#include "main.h"
+
 
 int main(void)
 {
@@ -6,3 +8,4 @@ int main(void)
 	// release 2 ready
 	return 2; //fix bug in master
 }
+
